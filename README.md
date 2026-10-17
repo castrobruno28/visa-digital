@@ -71,3 +71,28 @@ Desenvolvido por Bruno Castro como projeto autoral de demonstração e aprendiza
 
 [Repositório no GitHub](https://github.com/castrobruno28/visa-digital)
 
+Documentação de QA Manual
+
+Este projeto também faz parte do meu portfólio de Quality Assurance (QA), com foco em testes manuais, documentação e identificação de oportunidades de melhoria.
+
+Documentos de teste
+
+- [Plano de testes](docs/qa/plano-de-testes.md) — objetivo, escopo e abordagem dos testes.
+- [Casos de teste](docs/qa/casos-de-teste.md) — cenários, resultados esperados e registro das execuções.
+- [Relatório de melhorias](docs/qa/relatorio-de-melhorias.md) — oportunidades identificadas durante os testes manuais.
+
+Resultados dos testes
+
+Foram executados 10 casos de teste no protótipo, incluindo validações de cadastro, pesquisa, inspeções, processos sanitários, dossiê digital e exportação de relatórios.
+
+- 8 casos aprovados sem observações adicionais.
+- 2 casos aprovados com observações e oportunidades de melhoria (CT-007 e CT-008).
+
+Competências demonstradas
+
+- Planejamento e execução de testes manuais.
+- Elaboração e documentação de casos de teste.
+- Validação de resultados esperados e observados.
+- Registro de evidências e resultados de execução.
+- Identificação e documentação de oportunidades de melhoria.
+- Uso do Git e GitHub para versionamento e publicação da documentação.
