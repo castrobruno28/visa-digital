@@ -38,6 +38,8 @@ Status: Aprovado.
 
 Observações: Nenhuma observação registrada.
 
+Evidência: [CT-001 — Painel geral](../screenshots/CT-001-painel-geral.png)
+
 ---
 
 CT-002 — Consultar estabelecimentos
@@ -60,6 +62,8 @@ Resultado obtido: A listagem de estabelecimentos e suas informações foram exib
 Status: Aprovado.
 
 Observações: Todas as informações da listagem foram exibidas.
+
+Evidência: [CT-002 — Estabelecimentos](../screenshots/CT-002-estabelecimentos.png)
 
 ---
 
@@ -84,6 +88,8 @@ Status: Aprovado.
 
 Observações: Os dois cenários funcionaram como esperado.
 
+Evidência: [CT-003 — Pesquisa de estabelecimento](../screenshots/CT-003-pesquisa-estabelecimento.png)
+
 ---
 
 CT-004 — Validar campos obrigatórios de processo
@@ -105,6 +111,8 @@ Resultado obtido: O sistema impediu o salvamento do processo quando os campos ob
 Status: Aprovado.
 
 Observações: O sistema impediu o salvamento e exigiu preenchimento de campo.
+
+Evidência: [CT-004 — Campos obrigatórios](../screenshots/CT-004-campos-obrigatorios.png)
 
 ---
 
@@ -132,6 +140,8 @@ Status: Aprovado.
 
 Observações: Teste realizado com sucesso.
 
+Evidência: [CT-005 — Cadastro de processo](../screenshots/CT-005-cadastro-processo.png)
+
 ---
 
 CT-006 — Consultar agenda de inspeções
@@ -153,6 +163,8 @@ Resultado obtido: A agenda de inspeções foi consultada e as informações fora
 Status: Aprovado.
 
 Observações: Teste aprovado; funcionamento conforme esperado.
+
+Evidência: [CT-006 — Agenda de inspeções](../screenshots/CT-006-agenda-inspecoes.png)
 
 ---
 
@@ -177,6 +189,8 @@ Resultado obtido: Os filtros por situação retornaram os registros esperados. N
 Status: Aprovado com observação.
 
 Observações: A filtragem funcionou corretamente, porém não há opção visível para limpar o filtro. Recomenda-se avaliar a inclusão dessa funcionalidade para melhorar a usabilidade.
+
+Evidência: [CT-007 — Filtros de inspeções](../screenshots/CT-007-filtros-inspecoes.png)
 
 ---
 
@@ -203,6 +217,8 @@ Status: Aprovado com observação.
 
 Observações: A atualização do relatório por período funciona conforme observado, porém não há filtro para selecionar um técnico individualmente. Recomenda-se avaliar a inclusão desse recurso. A ausência do filtro será considerada uma limitação funcional a confirmar conforme os requisitos do projeto.
 
+Evidência: [CT-008 — Relatório por período](../screenshots/CT-008-relatorio-por-periodo.png)
+
 ---
 
 T-009 — Consultar dossiê digital
@@ -225,6 +241,8 @@ Resultado obtido: O dossiê digital foi consultado e apresentou as informações
 Status: Aprovado.
 
 Observações: Teste realizado; sistema funcionou como esperado.
+
+Evidência: [CT-009 — Dossiê digital](../screenshots/CT-009-dossie-digital.png)
 
 ---
 
@@ -249,6 +267,8 @@ Resultado obtido: A exportação do relatório em CSV foi realizada e o teste fu
 Status: Aprovado.
 
 Observações: Teste realizado com sucesso, conforme resultado informado.
+
+Evidência: [CT-010 — Exportação CSV](../screenshots/CT-010-exportacao-csv.png)
 
 4. Registro das execuções dos testes
 
